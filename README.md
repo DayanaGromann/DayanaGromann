@@ -1,12 +1,14 @@
-### Hi there 👋
+Olá! :)
+Sou professora de programação e apaixonada por criação de jogos.  &hearts;
+
 
 <!--
 **DayanaGromann/DayanaGromann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Sou professora de programação na Byju's Future School
+- 🌱 Atualmente estou estudando node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
