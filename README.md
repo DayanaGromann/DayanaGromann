@@ -1,5 +1,5 @@
 Olá! :)
-Sou professora de programação e programadora. 
+Sou desenvolvedora web e programadora. 
 Aqui você encontra jogos desenvolvidos em javascript, aplicativos mobile com react-native e sites com react. &hearts;
 
 
