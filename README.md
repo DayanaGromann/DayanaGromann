@@ -1,28 +1,21 @@
-# Olá, eu sou a Dayana! 👋
+# Olá, eu sou a Dayana 😊
 
-Sou engenheira de software, pós-graduada em Arquitetura de Software e Soluções.
+Engenheira de software, pós-graduada em Arquitetura de Software e Soluções, atuo na área de tecnologia desde 2021 e atualmente estou cursando minha segunda pós-graduação em Engenharia de Software com IA Aplicada.
 
-Atuo na área de tecnologia desde 2021 e atualmente estou cursando minha segunda pós-graduação em Engenharia de Software com IA Aplicada.
+Criei este repositório para guardar projetos que fizeram parte da minha jornada de aprendizado. Tem de tudo um pouco por aqui: exercícios, experimentos, provas de conceito, estudos, ideias que deram certo e outras nem tanto.
 
-## Sobre este repositório
+Grande parte do conteúdo foi desenvolvida desde o início da minha carreira na tecnologia. Então, se você encontrar alguns códigos com arquiteturas questionáveis nos projetos mais antigos, saiba que eles estão aqui como registro da minha evolução como desenvolvedora. 😅
 
-Este repositório reúne projetos desenvolvidos para estudos desde o início da minha carreira na área de tecnologia.
+Você também vai encontrar alguns jogos e experiências criados durante a época em que trabalhei como professora de programação de jogos. Muitos deles foram utilizados para preparar aulas, demonstrar conceitos ou servir de base para atividades práticas.
 
-Aqui você encontrará desde os primeiros exercícios e experimentos que criei enquanto aprendia programação até projetos mais recentes. Portanto, se encontrar alguns códigos com uma arquitetura um tanto questionável nos projetos mais antigos, considere-os parte da minha evolução profissional. 😄
+### Assuntos que aparecem por aqui
 
-O repositório também inclui experiências, protótipos e jogos desenvolvidos durante o período em que atuei como professora de programação de jogos, utilizados na preparação de aulas e atividades práticas.
-
-
-## Tecnologias e temas explorados
-
-* JavaScript
-* TypeScript
-* React
-* React Native
+* JavaScript e TypeScript
+* React e React Native
 * Node.js
+* Arquitetura de Software
 * Inteligência Artificial
-* Boas práticas de desenvolvimento
+* Desenvolvimento Frontend
+* Experimentos e projetos de estudo
 
----
-
-📚 Aprendizado contínuo e evolução profissional fazem parte da minha trajetória, e este repositório reflete essa jornada.
+Fique à vontade para explorar os projetos. 🚀
