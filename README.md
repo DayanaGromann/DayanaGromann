@@ -1,24 +1,28 @@
-Olá! :)
-Sou desenvolvedora web e professora de programação. 
-Aqui você encontra jogos desenvolvidos em javascript, aplicativos mobile com react-native e sites com react. &hearts;
+# Olá, eu sou a Dayana! 👋
 
-- Javascript
-- React
-- Typescript
-- NodeJs
-- React-native
+Sou engenheira de software, pós-graduada em Arquitetura de Software e Soluções.
 
-<!--
-**DayanaGromann/DayanaGromann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo na área de tecnologia desde 2021 e atualmente estou cursando minha segunda pós-graduação em Engenharia de Software com IA Aplicada.
 
-Here are some ideas to get you started:
+## Sobre este repositório
 
-- 🔭 Sou professora de programação na Byju's Future School
-- 🌱 Atualmente estou estudando node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este repositório reúne projetos desenvolvidos para estudos desde o início da minha carreira na área de tecnologia.
+
+Aqui você encontrará desde os primeiros exercícios e experimentos que criei enquanto aprendia programação até projetos mais recentes. Portanto, se encontrar alguns códigos com uma arquitetura um tanto questionável nos projetos mais antigos, considere-os parte da minha evolução profissional. 😄
+
+O repositório também inclui experiências, protótipos e jogos desenvolvidos durante o período em que atuei como professora de programação de jogos, utilizados na preparação de aulas e atividades práticas.
+
+
+## Tecnologias e temas explorados
+
+* JavaScript
+* TypeScript
+* React
+* React Native
+* Node.js
+* Inteligência Artificial
+* Boas práticas de desenvolvimento
+
+---
+
+📚 Aprendizado contínuo e evolução profissional fazem parte da minha trajetória, e este repositório reflete essa jornada.
