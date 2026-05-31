@@ -1,4 +1,4 @@
-# Olá, eu sou a Dayana 😊
+# Olá, eu sou a Day 😊
 
 Engenheira de software, pós-graduada em Arquitetura de Software e Soluções, atuo na área de tecnologia desde 2021 e atualmente estou cursando minha segunda pós-graduação em Engenharia de Software com IA Aplicada.
 
